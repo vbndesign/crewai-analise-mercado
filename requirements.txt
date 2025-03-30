@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+langchain-community
+ipykernel
+python-dotenv
+jupyter
+pdfkit
+markdown
